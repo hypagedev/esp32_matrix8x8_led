@@ -1,10 +1,5 @@
-//ace and a happy face. Upload the following code to your board:
-
 /*
- Created by Rui Santos
- 
- All the resources for this project:
- http://randomnerdtutorials.com/
+ Created by Hypage, LLC
 */
 
 #include "LedControl.h"
